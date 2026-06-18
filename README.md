@@ -67,7 +67,7 @@ Beyond research, I support undergraduate software engineering education, build f
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoyChepchumba&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramkat12&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramkat12&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
 </p>
@@ -82,9 +82,9 @@ Beyond research, I support undergraduate software engineering education, build f
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joychepchumba/Joychepchumba/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joychepchumba/Joychepchumba/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Joychepchumba/AichaMbongo/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ramkat12/Ramkat12/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ramkat12/Ramkat12/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ramkat12/Ramkat12/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
